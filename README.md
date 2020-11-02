@@ -1,7 +1,7 @@
 # Portfolio
 This is personal webpage and professional portfolio.  
 
-(Link to deployed webpage)[https://mariabyler.github.io/Portfolio/]
+[https://mariabyler.github.io/Portfolio/]
 
 ![image](https://user-images.githubusercontent.com/69592367/97911557-7177da00-1d19-11eb-8acf-69ef46d4d164.png)  
 
